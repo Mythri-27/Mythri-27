@@ -4,9 +4,9 @@
 
 I am a passionate **Computer Science Student** with a keen interest in **Web Development**, **Cybersecurity**, and **Machine Learning**. I love building interactive web applications, exploring vulnerabilities, and enhancing my coding skills.
 
-* 🔭 Currently working on: `AId - Blood and Organ Donor Application`
-* 🌱 Currently learning: `React`, `Node.js`, `Web Vulnerability Assessment`
-* 🤝 Looking to collaborate on: `Open Source Projects`
+* 🔭 Currently working on: `Image-Classifier`
+* 🌱 Currently learning: `Backend development and DBMS`
+* 🤝 Passionate about: `Full-stack Projects and Machine Learning`
 * 💬 Ask me about: `Java`, `MERN Stack`, `Web Security`
 * 📫 How to reach me: [mythri.badugu@gmail.com](mailto:mythri.badugu@gmail.com)
 
@@ -41,15 +41,15 @@ You can view or download my resume here: [Resume.pdf](https://your-resume-link.c
 
 ---
 
-## 🗂️ Projects I Have Worked On
+## 🗂️ My Projects
 
-* **AId - Blood and Organ Donor Application** — A platform to connect blood and organ donors with recipients.
+* **Image-Classifier** - a CNN-based model to classify images with high accuracy.
+* **Vulnerability Assessment of Web Applications** — report on vulnerabilities in applications and provided proactive measures.
 * **Express.js CRUD Application** — Built a student management system with JWT-based authorization.
 * **Bookstore XML Project** — Created and validated a bookstore inventory using XML, DTD, and XSD.
-* **Responsive Portfolio Website** — Designed and developed a fully responsive personal portfolio website.
-* **Vulnerability Assessment** — Conducted vulnerability assessments for web applications, focusing on SQL Injection and XSS.
+* **Employee Management System** – Basic CRUD operations with a MySQL database.
 
-*(You can list more projects as you continue building your portfolio!)*
+
 
 ---
 
@@ -72,8 +72,3 @@ You can view or download my resume here: [Resume.pdf](https://your-resume-link.c
 
 *Feel free to explore my repositories and reach out if you want to collaborate on interesting projects!*
 
-<div align="center">
-
-![Footer Image](https://via.placeholder.com/1200x100.png?text=Happy+Coding!)
-
-</div>
