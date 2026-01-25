@@ -35,7 +35,7 @@ I am a passionate **Computer Science Student** with a keen interest in **Web Dev
 
 ## 📄 Resume
 
-You can view or download my resume here: [Resume.pdf](https://github.com/Mythri-27/Mythri-27/blob/main/resume.pdf.pdf)
+You can view or download my resume here: [Resume.pdf](https://github.com/Mythri-27/resume/raw/d58975366664b5ed90f00126ae86207fb5541549/resume.pdf)
 
 
 
