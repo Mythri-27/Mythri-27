@@ -4,8 +4,8 @@
 
 I am a passionate **Computer Science Student** with a keen interest in **Web Development**, **Cybersecurity**, and **Machine Learning**. I love building interactive web applications, exploring vulnerabilities, and enhancing my coding skills.
 
-* 🔭 Currently working on: `Image-Classifier`
-* 🌱 Currently learning: `Backend development and DBMS`
+* 🔭 Currently working on: `LangChain and RAG projects`
+* 🌱 Currently learning: `AI (Agentic AI, Agents) `
 * 🤝 Passionate about: `Full-stack Projects and AI/ML`
 * 💬 Ask me about: `Java`, `MERN Stack`, `Web Security`, `AI`
 * 📫 How to reach me: [mythri.badugu@gmail.com](mailto:mythri.badugu@gmail.com)
