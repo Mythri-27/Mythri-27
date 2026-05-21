@@ -6,8 +6,8 @@ I am a passionate **Computer Science Student** with a keen interest in **Web Dev
 
 * 🔭 Currently working on: `Image-Classifier`
 * 🌱 Currently learning: `Backend development and DBMS`
-* 🤝 Passionate about: `Full-stack Projects and Machine Learning`
-* 💬 Ask me about: `Java`, `MERN Stack`, `Web Security`
+* 🤝 Passionate about: `Full-stack Projects and AI/ML`
+* 💬 Ask me about: `Java`, `MERN Stack`, `Web Security`, `AI`
 * 📫 How to reach me: [mythri.badugu@gmail.com](mailto:mythri.badugu@gmail.com)
 
 ---
