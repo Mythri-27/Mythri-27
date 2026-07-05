@@ -43,11 +43,13 @@ You can view or download my resume here: [Resume.pdf](https://github.com/Mythri-
 
 ## 🗂️ My Projects
 
-* **Image-Classifier** - a CNN-based model to classify images with high accuracy.
+<!--* **Image-Classifier** - a CNN-based model to classify images with high accuracy.-->
 * **Vulnerability Assessment of Web Applications** — report on vulnerabilities in applications and provided proactive measures.
-* **Express.js CRUD Application** — Built a student management system with JWT-based authorization.
+* **Movie Recommendation System**
+* **AI Mock Interview Platform**
+<!--* **Express.js CRUD Application** — Built a student management system with JWT-based authorization.
 * **Bookstore XML Project** — Created and validated a bookstore inventory using XML, DTD, and XSD.
-* **Employee Management System** – Basic CRUD operations with a MySQL database.
+* **Employee Management System** – Basic CRUD operations with a MySQL database.-->
 
 
 
